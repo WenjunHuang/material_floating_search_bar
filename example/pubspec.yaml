@@ -12,7 +12,7 @@ dependencies:
   http: ^0.13.5
   implicitly_animated_reorderable_list_2: ^0.5.1
   material_design_icons_flutter: ^6.0.7096
-  material_floating_search_bar_2:
+  material_floating_search_bar:
     path: ../
   provider: ^6.0.5
 
@@ -25,7 +25,7 @@ flutter:
 
   assets:
     - assets/map.jpg
-  
+
   fonts:
     - family: Montserrat
       fonts:
